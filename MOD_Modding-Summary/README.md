@@ -13,7 +13,7 @@ https://www.gimp.org/downloads/
 <br />
 https://code.google.com/archive/p/gimp-dds/
 <br />
-![alt text](https://github.com/yz523/MHW_Modding-Summary/blob/master/texture/texture.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Modding-Summary/texture/texture.png)
 <br />
 <br />
 .tex <-> .dds:<br />
@@ -21,7 +21,7 @@ https://github.com/AsteriskAmpersand/Mod3-MHW-Importer/tree/master/mrl3
 <br />
 <br />
 Mrl3 editor:<br />
-https://github.com/yz523/MHW_Modding-Summary/tree/master/mrl3
+https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Modding-Summary/mrl3/Mrl3Editor.exe
 <br />
 <br />
 Hex Editor -> Hex Workshop & 010 Editor:<br />
@@ -35,25 +35,25 @@ https://www.h-schmidt.net/FloatConverter/IEEE754.html
 <br />
 <br />
 Camera(.cms):<br />
-![alt text](https://github.com/yz523/MHW_Modding-Summary/blob/master/camera/camera.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Modding-Summary/camera/camera.png)
 <br />
 <br />
 Collision(.col):<br />
-![alt text](https://github.com/yz523/MHW_Modding-Summary/blob/master/collision/col_1.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Modding-Summary/collision/col_1.png)
 <br />
 <br />
-![alt text](https://github.com/yz523/MHW_Modding-Summary/blob/master/collision/col_2.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Modding-Summary/collision/col_2.png)
 <br />
 <br />
 Item Data(.itm):<br />
-![alt text](https://github.com/yz523/MHW_Modding-Summary/blob/master/itemData/itemData.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Modding-Summary/itemData/itemData.png)
 <br />
 <br />
 Shell_table(.shl_tbl):<br />
-![alt text](https://github.com/yz523/MHW_Modding-Summary/blob/master/shell_table/shell_table.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Modding-Summary/shell_table/shell_table.png)
 <br />
 <br />
 Shlp(.shlp):<br />
-![alt text](https://github.com/yz523/MHW_Modding-Summary/blob/master/shlp/shlp.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Modding-Summary/shlp/shlp.png)
 <br />
 <br />
