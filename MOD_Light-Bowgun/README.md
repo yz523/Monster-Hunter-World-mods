@@ -1,5 +1,5 @@
 # MHW_mod_Light-Bowgun
-![alt text](https://github.com/yz523/MHW_mod_Light-Bowgun/blob/master/lbg.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Light-Bowgun/lbg.png)
 <br />
 <br />
 
