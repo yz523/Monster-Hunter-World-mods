@@ -3,7 +3,7 @@
 https://www.nexusmods.com/monsterhunterworld/mods/1354
 <br />
 <br />
-![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Elemental-Bow/bow.png?raw=true)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Elemental-Bow/bow.png)
 <br />
 <br />
 
