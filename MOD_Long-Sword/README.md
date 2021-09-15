@@ -1,8 +1,8 @@
 # MHW_mod_Long-Sword
-![alt text](https://github.com/yz523/MHW_mod_Long-Sword/blob/master/swo.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Long-Sword/swo.png)
 <br />
 <br />
-![alt text](https://github.com/yz523/MHW_mod_Long-Sword/blob/master/saya.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Long-Sword/saya.png)
 <br />
 <br />
 
