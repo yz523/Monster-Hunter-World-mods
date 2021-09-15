@@ -1,5 +1,5 @@
 # MHW_mod_Switch-Axe
-![alt text](https://github.com/yz523/MHW_mod_Switch-Axe/blob/master/saxe.png)
+![alt text](https://github.com/yz523/Monster-Hunter-World-mods/blob/main/MOD_Switch-Axe/saxe.png)
 <br />
 <br />
 
